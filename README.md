@@ -2,7 +2,7 @@
 
 <br>
 
-![Google IT Automation with Python Professional Certificate]([https://www.example.com/image.jpg](https://www.coursera.org/account/accomplishments/specialization/certificate/GSRD42KMHGGR))
+![Google IT Automation with Python Professional Certificate]((https://www.coursera.org/account/accomplishments/specialization/certificate/GSRD42KMHGGR))
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
