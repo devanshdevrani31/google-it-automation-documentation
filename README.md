@@ -2,7 +2,7 @@
 
 <br>
 
-![Google IT Automation with Python Professional Certificate](https://drive.google.com/file/d/1nIxGUwvFqiBTyXGZ8ibSqHJyQnA18QVZ/view?usp=sharing)
+![Google IT Automation with Python Professional Certificate](https://lh3.googleusercontent.com/drive-viewer/AEYmBYTsRJwSgB-G_e27j-c99NcPmd0CeaOuYMX1lfbyKNioT4ubw6ayHY6M0iJPkHmSr9zvo1gtIizNOlmDYMtZZ9mqKHC16g=s1600)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
